@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python train.py --output_dir output/PAGM-perceptual --checkpoints_dir output/PAGM-perceptual --warp_skip mask --dataset VeRi --l1_penalty_weight 10 --batch_size 3 --number_of_epochs 100 --content_loss_layer block4_conv1 --perceptual_penalty_weight 0.01

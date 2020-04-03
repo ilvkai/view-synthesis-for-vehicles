@@ -1,0 +1,6 @@
+
+data/VeRi-annotation-test.csv
+data/VeRi-annotation-train.csv
+data/VeRi-pairs-test.csv
+data/VeRi-pairs-train.csv
+.idea/

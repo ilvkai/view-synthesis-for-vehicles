@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python test.py --generator_checkpoint output/PAGM-perceptual/epoch_099_generator.h5 --warp_skip mask --dataset VeRi --l1_penalty_weight 10 --batch_size 3 --number_of_epochs 100  --generated_images_dir output/VeRi-generated_images-PAGM-perceptual
