@@ -1,5 +1,5 @@
 # Pose-based View Synthesis for Vehicles: a Perspective Aware Method
-This repo is based on pose-gan [https://github.com/AliaksandrSiarohin/pose-gan], which is an excellent work of person pose transfer.
+This repo is based on pose-gan [https://github.com/AliaksandrSiarohin/pose-gan], which is an excellent work for person pose transfer.
 ### Requirment
 * python2.7
 * Numpy
@@ -16,7 +16,7 @@ This repo is based on pose-gan [https://github.com/AliaksandrSiarohin/pose-gan],
 2. install keras-contrib by running: pip install git+https://www.github.com/keras-team/keras-contrib.git
 
 ### Training
-In orger to train a model:
+In order to train a model:
 1. Download VeRi dataset https://github.com/VehicleReId/VeRidataset. Put it in data folder. 
 Rename this folder to data/VeRi-dataset.
 Rename image_train and image_test with test and train. 
