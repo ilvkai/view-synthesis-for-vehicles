@@ -15,5 +15,5 @@ scipy==1.1.0
 six==1.11.0
 sklearn==0.0
 tensorboard==1.6.0
-tensorflow-gpu==1.6.0
+tensorflow-gpu==2.5.3
 tqdm==4.23.4
